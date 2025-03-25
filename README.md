@@ -1,2 +1,1 @@
-# openapi-generator
-Datastax Bugbounty POC by @nvk0x
+# Datastax Bugbounty POC by @nvk0x
